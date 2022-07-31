@@ -2,4 +2,4 @@ project: megacmd
 target: mega-cmd
 
 cmds:
-  - cmd: /repo/mega-cmd
+  - cmd: /install/bin/mega-cmd
